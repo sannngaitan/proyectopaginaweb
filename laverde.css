@@ -164,6 +164,17 @@ body {
   line-height: 80px;
 }
 
+.titulo-apellidos {
+  margin-bottom: 40px;
+  font-size: 40px;
+  font-family: "Oswald", sans-serif;
+  font-style: normal;
+  color: #04AA6D;
+  text-align: center;
+  font-weight: 700;
+  line-height: 80px;
+}
+
 
 .imagen{
   display: block;
