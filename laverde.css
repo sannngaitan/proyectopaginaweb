@@ -151,11 +151,10 @@ body {
   margin-top: 20px;
   margin-bottom: 40px;
   font-size: 20px;
-  font-family: "Oswald", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   color: #04AA6D;
   text-align: center;
-  font-weight: 700;
 }
 
 .subtitulo-cumpleaños {
@@ -362,7 +361,7 @@ html { scroll-behavior: smooth; }
   .texto-cumpleaños {
     width: 100%;
     box-sizing: border-box;
-    font-size: 18px;
+    font-size: 12px;
     text-align: justify;
     word-break: break-word;
     overflow-wrap: break-word;
@@ -404,8 +403,9 @@ html { scroll-behavior: smooth; }
   flex-wrap: wrap;
   margin-left: 20px;
   margin-right: 20px;
-  font-size: 28px;
-  font-family: "Oswald", sans-serif;
+  text-align: left;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   color: white;
 }
