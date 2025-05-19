@@ -38,6 +38,7 @@
   top: 10px;
   left: 50%;
   transform: translateX(-50%);
+  font-family: "Montserrat", sans-serif;
   font-size: 32px;
   color: white;
   font-weight: bold;
@@ -186,6 +187,7 @@ body {
 
 iframe { 
   display: block;
+  width: 100%;
   margin: 0 auto;
   border: 4px solid #4CAF50;
   border-radius: 12px;
