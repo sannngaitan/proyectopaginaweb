@@ -160,8 +160,24 @@ Por supuesto, sumado a todo esto, los chicos se divertirán jugando en nuestra c
         </div>
 
   <h2 class="titulo">PAGINA HECHA POR PAREDEZ, GAITAN Y SANCHEZ © 2025</h2>
+
+  <button id="flechaArriba" class="btn">Ir arriba</button>
+
+<script>
+const boton = document.getElementById("flechaArriba");
+
+boton.addEventListener("click", () => {
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
+});
+
+</script>
     
   <script>
+
+    
     
   let index = 0;
   const slides = document.querySelectorAll(".text-slide");
